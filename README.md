@@ -1,6 +1,5 @@
-# candlestick-forecasting-project
+# stock-price-forecasting-project
 
 NUS Fintech Society Machine Learning Department 
 
-This project aims to forecast stock price movements for the next 3 days based on past 3 days of candlestick patterns and technical indicators.
-We'll use time-series forecasting techniques, including machine learning models and deep learning models.
+This project aims to forecast the next 10 days of stock closing prices using various machine learning models. Trained on historical data from six major tech stocks (AAPL, MSFT, AMZN, NVDA, GOOGL, IBM), the model takes in the past 60 days of closing prices to predict future trends through iterative forecasting. 
